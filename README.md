@@ -29,3 +29,5 @@ kuma@gmail.com
 usagi
 usagi@gmail.com
 123456
+
+http://localhost:3001/
